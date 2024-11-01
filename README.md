@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#about me
+I'm a data science student from Virtual University of Sao Paulo (UNIVESP) and a intern into the biggest marketplace onlice for cars in brazil (Webmotors); 
+
+Feel free to do as you please 
